@@ -13,12 +13,13 @@ body{
     text-align: center;
     padding: 28px;
     border-radius: 7px;
+    
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
     width: 90%;
     margin: 10px;
     max-width: 450px;
     font-size: 18px;
     font-weight: 500;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
 }
 
 .heading{
